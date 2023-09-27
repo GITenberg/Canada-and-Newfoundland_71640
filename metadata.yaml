@@ -1,0 +1,30 @@
+_repo: Canada-and-Newfoundland_71640
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carpenter, Frank G. (Frank George)
+    alias: Carpenter, Frank George
+    birthdate: 1855
+    deathdate: 1924
+    gutenberg_agent_id: '56191'
+    url: http://www.gutenberg.org/2009/agents/56191
+    wikipedia: https://en.wikipedia.org/wiki/Frank_G._Carpenter
+description: ''
+gutenberg_issued: '2023-09-14'
+identifiers:
+  gutenberg: '71640'
+language: en
+pgterms:marc904: https://archive.org/details/canadanewfoundla0000carp
+pgterms:marc905: 20210521103258carpenter
+pgterms:marc906: '1924'
+pgterms:marc907: us
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aGarden City :$bDoubleday, Page & company, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Canada and Newfoundland
+url: http://www.gutenberg.org/ebooks/71640
