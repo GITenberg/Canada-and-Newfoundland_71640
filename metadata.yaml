@@ -1,5 +1,8 @@
 _repo: Canada-and-Newfoundland_71640
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71640-h/images/cover.jpg
 creator:
   author:
     agent_name: Carpenter, Frank G. (Frank George)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56191
     wikipedia: https://en.wikipedia.org/wiki/Frank_G._Carpenter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71640#Canada-and-Newfoundland
 gutenberg_issued: '2023-09-14'
 identifiers:
   gutenberg: '71640'
